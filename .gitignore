@@ -1,1 +1,4 @@
 /HpglPlotter/*.user
+bin
+obj
+/*.suo
