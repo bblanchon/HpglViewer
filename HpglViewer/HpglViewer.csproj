@@ -8,8 +8,8 @@
     <ProjectGuid>{C271B294-4F7F-4FBD-9463-F2C8645B8EB7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HpglPlotter</RootNamespace>
-    <AssemblyName>HpglPlotter</AssemblyName>
+    <RootNamespace>HpglViewer</RootNamespace>
+    <AssemblyName>HpglViewer</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>

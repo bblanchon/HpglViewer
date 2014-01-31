@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using Hpgl;
 
-namespace HpglPlotter
+namespace HpglViewer
 {
     public partial class ErrorList : UserControl
     {

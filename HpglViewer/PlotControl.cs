@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using Hpgl.Instructions;
 using Hpgl;
 
-namespace HpglPlotter
+namespace HpglViewer
 {
     public partial class PlotControl : UserControl
     {

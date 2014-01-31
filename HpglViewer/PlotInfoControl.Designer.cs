@@ -1,4 +1,4 @@
-﻿namespace HpglPlotter
+﻿namespace HpglViewer
 {
     partial class PlotInfoControl
     {

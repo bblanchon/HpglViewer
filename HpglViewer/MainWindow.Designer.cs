@@ -1,4 +1,4 @@
-﻿namespace HpglPlotter
+﻿namespace HpglViewer
 {
     partial class MainWindow
     {
@@ -33,9 +33,9 @@
             this.openToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
-            this.plotControl1 = new HpglPlotter.PlotControl();
-            this.errorList1 = new HpglPlotter.ErrorList();
-            this.plotInfoControl1 = new HpglPlotter.PlotInfoControl();
+            this.plotControl1 = new HpglViewer.PlotControl();
+            this.errorList1 = new HpglViewer.ErrorList();
+            this.plotInfoControl1 = new HpglViewer.PlotInfoControl();
             this.menuStrip1.SuspendLayout();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -139,7 +139,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainWindow";
-            this.Text = "HPGL Plotter";
+            this.Text = "HPGL Viewer";
             this.Load += new System.EventHandler(this.MainWindow_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
